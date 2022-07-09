@@ -1,0 +1,19 @@
+{
+  "name": "logit-http",
+  "version": "1.0.0",
+  "description": "Express simple to use HTTP Logging middleware.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terry-404/HTTP-Logger.git"
+  },
+  "author": "AbdoRayan404",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Terry-404/HTTP-Logger/issues"
+  },
+  "homepage": "https://github.com/Terry-404/HTTP-Logger#readme"
+}
