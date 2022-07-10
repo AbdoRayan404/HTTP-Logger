@@ -11,7 +11,7 @@ const app = express();
 const httpLogger = require('logit-http');
 
 app.use(express.json());
-app.use(httpLogger());
+app.use(httpLogger);
 
 app.listen(3000, ()=>console.log('pingo !'));
 ```
