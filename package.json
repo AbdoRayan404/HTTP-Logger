@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Terry-404/HTTP-Logger.git"
+    "url": "git+https://github.com/AbdoRayan404/HTTP-Logger.git"
   },
   "author": "AbdoRayan404",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Terry-404/HTTP-Logger/issues"
+    "url": "https://github.com/AbdoRayan404/HTTP-Logger/issues"
   },
-  "homepage": "https://github.com/Terry-404/HTTP-Logger#readme"
+  "homepage": "https://github.com/AbdoRayan404/HTTP-Logger#readme"
 }
