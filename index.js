@@ -27,6 +27,8 @@ function httpLogger(req, res, next){
         if(process.env.LOG_AUTHORIZATION == 'true') process.stdout.write(`[AUTH] ${req.headers['authorization'] ? req.headers['authorization'] : "No Auth token were sent"}`)
         console.log('')
     }
+    
+    next()
 }
 
 module.exports = httpLogger;
